@@ -1,0 +1,72 @@
+[
+    {
+      "product_id": 1,
+      "product_name": "Smartphone",
+      "product_description": "High-end smartphone with advanced features.",
+      "product_img": "https://static.toiimg.com/thumb/msid-88584175,width-800,resizemode-4,imgsize-16704/share.jpg",
+      "price": 99.99
+    },
+    {
+      "product_id": 2,
+      "product_name": "Laptop",
+      "product_description": "Powerful laptop for all your computing needs.",
+      "product_img": "https://static.toiimg.com/thumb/msid-86835565,width-1280,resizemode-4/86835565.jpg",
+      "price": 599.99
+    },
+    {
+      "product_id": 3,
+      "product_name": "Smart TV",
+      "product_description": "55-inch LED Smart TV with 4K resolution.",
+      "product_img": "https://zebronics.com/cdn/shop/products/ZEB-32P1-pic2_1024x1024.jpg?v=1663154267",
+      "price": 699.99
+    },
+    {
+      "product_id": 4,
+      "product_name": "Wireless Headphones",
+      "product_description": "High-quality wireless headphones with noise-cancellation.",
+      "product_img": "https://i.pinimg.com/originals/34/6c/a6/346ca69830ea0b7eb36644497c5d7820.png",
+      "price": 199.99
+    },
+    {
+      "product_id": 5,
+      "product_name": "Fitness Tracker",
+      "product_description": "Waterproof fitness tracker with heart rate monitor.",
+      "product_img": "https://i.ebayimg.com/images/g/VqkAAOSwI6RdjyYu/s-l1200.jpg",
+      "price": 299.99
+    },
+    {
+      "product_id": 6,
+      "product_name": "Digital Camera",
+      "product_description": "Mirrorless digital camera with 24MP sensor.",
+      "product_img": "https://www.keh.com/cdn-cgi/image/q=50,w=400/media/catalog/product/3/8/384010-3560019_01.jpg",
+      "price": 799.99
+    },
+    {
+      "product_id": 7,
+      "product_name": "Gaming Console",
+      "product_description": "Next-gen gaming console with immersive gaming experience.",
+      "product_img": "https://i0.wp.com/hitechgamez.in/wp-content/uploads/2021/10/ps4controllerv2preowned.jpg?resize=900%2C900&ssl=1",
+      "price": 499.99
+    },
+    {
+      "product_id": 8,
+      "product_name": "Smart Watch",
+      "product_description": "High-end smart watch with the powerful feather.",
+      "product_img": "https://www.nogentech.org/wp-content/uploads/2017/09/Apple-to-Launch-Smart-Watch-with-LTE-Support-This-Year.jpg",
+      "price": 99.99
+    },
+    {
+      "product_id": 9,
+      "product_name": "Wireless Router",
+      "product_description": "High-speed wireless router for seamless internet connectivity.",
+      "product_img": "https://www.nehruplacedealers.com/wp-content/uploads/2023/05/TP-Link-TL-WR940N.jpg",
+      "price": 129.99
+    },
+    {
+      "product_id": 10,
+      "product_name": "Robot Vacuum",
+      "product_description": "Intelligent robot vacuum cleaner for automated cleaning.",
+      "product_img": "https://cdn.moglix.com/p/H6TwsPxGa4CDy-xxlarge.jpg",
+      "price": 599.99
+    }
+  ]
